@@ -17,6 +17,7 @@ Este projeto é um clone básico da interface do YouTube, desenvolvido utilizand
 
 ## Estrutura do Projeto
 
+``` bash
 projeto/
 │
 ├── assets/
@@ -44,7 +45,7 @@ projeto/
 │
 ├── index.html
 └── README.md
-
+```
 ## Layout Responsivo
 
 O projeto utiliza media queries para garantir um layout responsivo em diferentes tamanhos de tela:
