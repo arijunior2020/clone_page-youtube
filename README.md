@@ -20,31 +20,30 @@ Este projeto é um clone básico da interface do YouTube, desenvolvido utilizand
 projeto/
 │
 ├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── images/
-│ │ ├── avatar.png
-│ │ ├── bell.png
-│ │ ├── camera.png
-│ │ ├── curtir.png
-│ │ ├── descurtir.png
-│ │ ├── download.png
-│ │ ├── favicon.ico
-│ │ ├── menu.png
-│ │ ├── search.png
-│ │ └── youtube.png
-│ └── video/
-│ ├── video-01.png
-│ ├── video-02.png
-│ ├── video-03.png
-│ ├── video-04.png
-│ ├── video-05.png
-│ ├── video-06.png
-│ └── video-07.png
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   │   ├── avatar.png
+│   │   ├── bell.png
+│   │   ├── camera.png
+│   │   ├── curtir.png
+│   │   ├── descurtir.png
+│   │   ├── download.png
+│   │   ├── favicon.ico
+│   │   ├── menu.png
+│   │   ├── search.png
+│   │   └── youtube.png
+│   └── video/
+│       ├── video-01.png
+│       ├── video-02.png
+│       ├── video-03.png
+│       ├── video-04.png
+│       ├── video-05.png
+│       ├── video-06.png
+│       └── video-07.png
 │
 ├── index.html
 └── README.md
-
 
 ## Layout Responsivo
 
